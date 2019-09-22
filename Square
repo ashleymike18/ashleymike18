@@ -1,1 +1,15 @@
-
+/* This is the homework project printing a square by Mike Ashley for the 
+class Square for the CSCI E10a
+compile by typing %javac Square.java
+run the program by typing java Square.java
+*/
+class Square
+{
+  public static void main(String [] args)
+  {
+    System.out.println("|----------|");
+    System.out.println("|          |");
+    System.out.println("|          |");
+    System.out.println("|----------|");
+  }
+}
